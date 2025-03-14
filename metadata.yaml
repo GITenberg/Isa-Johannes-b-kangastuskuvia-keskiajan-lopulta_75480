@@ -1,0 +1,40 @@
+_repo: Isa-Johannes-b-kangastuskuvia-keskiajan-lopulta_75480
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Soini, Lauri
+    aliases:
+    - Ahava, Juho
+    - Soininen, L.
+    - Sauramo, Lauri
+    - Soininen, Lauri
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Lauri_Soini
+    - https://en.wikipedia.org/wiki/Lauri_Soininen
+description: ''
+gutenberg_issued: '2025-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75480'
+language: fi
+pgterms:marc905: 20241022101048sauramo
+pgterms:marc906: '1910'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Reformation -- Fiction'
+- !lcsh 'Nuns -- Fiction'
+- !lcsh 'Priests -- Fiction'
+- !lcc 'PH'
+- GITenberg
+title: 'Isä Johannes : $b kangastuskuvia keskiajan lopulta'
+url: http://www.gutenberg.org/ebooks/75480
